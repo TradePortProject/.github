@@ -19,9 +19,9 @@ TradePort is built using a **microservice architecture**, following Agile best p
 
 ## 🛠️ Technologies Used
 Layer	Tech Stack
-Frontend	React, Vite, TypeScript, Tailwind CSS
-Backend	.NET Core Web API, Node.js (Auth), Python
-Database	SQL Server (Azure SQL Database)
-DevOps & Infra	Docker, GitHub Actions, Azure App Services
-Authentication	Google OAuth 2.0 via Auth0
-Documentation	JIRA, Confluence, PlantUML, Markdown
+- Frontend	React, Vite, TypeScript, Tailwind CSS
+- Backend	.NET Core Web API, Node.js (Auth), Python
+- Database	SQL Server (Azure SQL Database)
+- DevOps & Infra	Docker, GitHub Actions, Azure App Services
+- Authentication	Google OAuth 2.0 via Auth0
+- Documentation	JIRA, Confluence, PlantUML, Markdown
