@@ -14,7 +14,7 @@ TradePort is built using a **microservice architecture**, following Agile best p
 - Domain-driven design
 - Scalable architecture
 - Secure authentication
-- Cloud deployment on Digital Ocean
+- Cloud deployment on AWS kubernetes cluster
 
 
 ## 🛠️ Technologies Used
